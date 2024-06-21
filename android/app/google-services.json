@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1012824620069",
+    "project_id": "techgenuius",
+    "storage_bucket": "techgenuius.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012824620069:android:b17a641c106d2d6490d3cc",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5GReomIxLZKklqJk2B5IDDLtRhzG1Msg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
